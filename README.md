@@ -1,4 +1,4 @@
-# Web-page-fraudulent-domain-detection-using-PySpark
+# Webpage Fraudulent Domain Detection using PySpark
 
 
 Phishing remains a highly successful and efficient method for cybercriminals to deceive individuals and extract their personal and financial data. The increasing dependence on the internet for our daily activities has created an ideal platform for cybercriminals to execute well-targeted phishing schemes. Modern phishing attacks are intricate and harder to detect. This project exclusively uses PySpark for analyzing URLs and finding the best model for classifying them.
