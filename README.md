@@ -20,13 +20,17 @@ To get started with this project and explore the EDA along with PySpark notebook
 * Open and run the Jupyter notebooks in the notebooks directory to explore the EDA.
 
 
-The next notebook, Pyspark ML for fraudulent domain detection, contains machine learning modeling for web page classification. It builds upon the insights gained during the EDA phase to develop and evaluate machine learning models for phishing detection.
+The following notebook, Pyspark ML for fraudulent domain detection, contains machine learning modeling for web page classification. It builds upon the insights gained during the EDA phase to develop and evaluate machine learning models for phishing detection.
 
 # Contributing
 
-If you would like to contribute to this project, feel free to open issues or submit pull requests. Your contributions are welcome!
+If you want to contribute to this project, open issues or submit pull requests, your contributions are welcome!
 
 # License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+# Infographics
+
+
+![Web Phishing Infographics](https://github.com/maladeep/Web-page-fraudulent-domain-detection-using-PySpark/blob/main/Dashboard%201.png)
